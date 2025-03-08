@@ -52,7 +52,7 @@
 </script>
 
 <section
-  class="mx-auto px-6 py-12 md:py-24 text-center dark:bg-neutral-950 min-h-screen text-neutral-900"
+  class="mx-auto px-6 py-12 md:py-24 text-center dark:bg-neutral-950 min-h-screen text-neutral-900 dark:text-neutral-100"
 >
   <h1
     class="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-tighter mb-4"
